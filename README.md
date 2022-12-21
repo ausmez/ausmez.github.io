@@ -1,4 +1,4 @@
-# How to Find the Date/Time Ubuntu Linux Was Installed
+# How to Find the Install Date/Time on Ubuntu Linux
 
 There are a few ways to find the installation timestamp of an Ubuntu OS.
 
